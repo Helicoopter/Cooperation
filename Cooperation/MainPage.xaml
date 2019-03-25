@@ -10,5 +10,7 @@
 
     <Grid>
         <Button Name="Button"/>
+        <Button Name="Button333"/>
+        <Button Name="Buttonefds"/>
     </Grid>
 </Page>
