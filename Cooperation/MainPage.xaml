@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button Name="anjian"/>
+        <Button Name="anjsss"/>
     </Grid>
 </Page>
